@@ -2,7 +2,7 @@
 
 ---
 
-## Machine learning
+## ML & AI
 
 ### Fraud Detection
 
