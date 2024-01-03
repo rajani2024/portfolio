@@ -1,6 +1,9 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Rajani Nagaraju
+logo: /assets/img/profile_pic.jpeg
+description: 
+<p>
+Tehnical architect with 10+ years experience in IoT Application development.
+Proficient in IoT architecture framework, MongoDB, MySQL, Kafka, Redis, Java and Stream analytics. 
+Currently pursuing Executive PG in ML&AI from upGrad
+</p>
 theme: jekyll-theme-minimal
