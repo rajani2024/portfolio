@@ -10,5 +10,5 @@ Fraud detection is a set of activities undertaken to prevent money or property f
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rajani2024/fraud_detection)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="images/fraud_detection.png"/></center>
 
